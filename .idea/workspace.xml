@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="422eefde-971f-4fe4-a5c2-3d0a97a91365" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Tomato Clock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tomato Clock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/mainp/warn-mainp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/mainp/warn-mainp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dist/mainp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/mainp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainp.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/mainwindow.ui.autosave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ui.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ui.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aCGRQRbdDctQ6FZYi0yqpmOmrQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Tomato Clock" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Tomato Clock" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Projects\Tomato Clock\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mainp">
+    <configuration name="builder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tomato Clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/builder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_faces_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tomato Clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/detect_faces_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="installer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tomato Clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/installer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Tomato Clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tomato Clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mainp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tomato Clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\WorkSpace\Projects\Tomato Clock\src\temple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.temple" />
+      <item itemvalue="Python.builder" />
+      <item itemvalue="Python.installer" />
+      <item itemvalue="Python.mainp" />
+      <item itemvalue="Python.detect_faces_video" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mainp" />
+        <item itemvalue="Python.installer" />
+        <item itemvalue="Python.builder" />
+        <item itemvalue="Python.detect_faces_video" />
+        <item itemvalue="Python.temple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dynai\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="422eefde-971f-4fe4-a5c2-3d0a97a91365" name="默认更改列表" comment="" />
+      <created>1586232153221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586232153221</updated>
+      <workItem from="1586232155525" duration="2636000" />
+      <workItem from="1586235915174" duration="543000" />
+      <workItem from="1586249117483" duration="1498000" />
+      <workItem from="1586251865727" duration="1959000" />
+      <workItem from="1586324820434" duration="2907000" />
+      <workItem from="1586417695595" duration="1581000" />
+      <workItem from="1586419813986" duration="12890000" />
+      <workItem from="1586482866975" duration="2133000" />
+      <workItem from="1586525259021" duration="3141000" />
+      <workItem from="1586529076339" duration="55000" />
+      <workItem from="1586529149019" duration="2777000" />
+      <workItem from="1586572250569" duration="20808000" />
+      <workItem from="1586609151046" duration="1404000" />
+      <workItem from="1586610571265" duration="6309000" />
+      <workItem from="1586657334058" duration="14395000" />
+      <workItem from="1587092831027" duration="536000" />
+      <workItem from="1587219153409" duration="1433000" />
+      <workItem from="1587261527299" duration="16734000" />
+      <workItem from="1587374981321" duration="5000" />
+      <workItem from="1588400562549" duration="10816000" />
+      <workItem from="1589177454816" duration="2485000" />
+      <workItem from="1589195981006" duration="1250000" />
+      <workItem from="1589433526945" duration="27000" />
+      <workItem from="1592473982371" duration="394000" />
+      <workItem from="1592474614574" duration="958000" />
+      <workItem from="1592475589804" duration="823000" />
+      <workItem from="1592478349572" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587305227383">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1587305227383" />
+    <state x="495" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586578688307">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="495" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1500.960@0.0.1500.960" timestamp="1586578688307" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1592474381148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960/-1600.451.1280.920@0.0.1500.960" timestamp="1586253193883" />
+    <state width="1458" height="130" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1589197912996" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592474381148" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1592474381148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="255" key="GridCell.Tab.0.center/0.0.1500.960/-1600.451.1280.920@0.0.1500.960" timestamp="1586253193883" />
+    <state width="1458" height="130" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1589197912996" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592474381148" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1592474381148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="255" key="GridCell.Tab.0.left/0.0.1500.960/-1600.451.1280.920@0.0.1500.960" timestamp="1586253193883" />
+    <state width="1458" height="130" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1589197912996" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592474381148" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1592474381148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="255" key="GridCell.Tab.0.right/0.0.1500.960/-1600.451.1280.920@0.0.1500.960" timestamp="1586253193883" />
+    <state width="1458" height="130" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1589197912996" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592474381148" />
+    <state width="1458" height="316" key="GridCell.Tab.1.bottom" timestamp="1589180595920">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1589180595920" />
+    <state width="1458" height="316" key="GridCell.Tab.1.center" timestamp="1589180595920">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1589180595920" />
+    <state width="1458" height="316" key="GridCell.Tab.1.left" timestamp="1589180595920">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1589180595920" />
+    <state width="1458" height="316" key="GridCell.Tab.1.right" timestamp="1589180595920">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1589180595920" />
+    <state x="54" y="127" key="SettingsEditor" timestamp="1592478490331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="332" y="84" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1588401344576" />
+    <state x="54" y="127" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592478490331" />
+    <state x="576" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1592478349545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="305" key="com.intellij.ide.util.TipDialog/0.0.1500.960/-1600.451.1280.920@0.0.1500.960" timestamp="1586251866972" />
+    <state x="450" y="305" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1589433531199" />
+    <state x="576" y="330" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592478349545" />
+    <state x="546" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586574087497">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="546" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1586574087497" />
+    <state x="493" y="122" key="refactoring.ChangeSignatureDialog" timestamp="1587265598344">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="493" y="122" key="refactoring.ChangeSignatureDialog/0.0.1500.960@0.0.1500.960" timestamp="1587265598344" />
+    <state x="414" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1587268211881">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="414" y="207" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1587268211881" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/mainp.py</url>
+          <line>400</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/mainp.py</url>
+          <line>426</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/mainp.py</url>
+          <line>450</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/mainp.py</url>
+          <line>455</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tomato_Clock$main.coverage" NAME="main Coverage Results" MODIFIED="1587305200370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock$detect_faces_video.coverage" NAME="detect_faces_video Coverage Results" MODIFIED="1588401910222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock$installer.coverage" NAME="installer Coverage Results" MODIFIED="1589179225960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock$temple.coverage" NAME="temple Coverage Results" MODIFIED="1587263980053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ui" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock$mainp.coverage" NAME="mainp Coverage Results" MODIFIED="1592474368366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock$builder.coverage" NAME="builder Coverage Results" MODIFIED="1588410195201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock$temple__1_.coverage" NAME="mainp Coverage Results" MODIFIED="1587305228872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock___2020$builder.coverage" NAME="builder Coverage Results" MODIFIED="1586419457373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Tomato_Clock___2020$main.coverage" NAME="main Coverage Results" MODIFIED="1586419675511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
