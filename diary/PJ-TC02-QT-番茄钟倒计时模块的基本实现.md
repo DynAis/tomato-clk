@@ -7,7 +7,7 @@
 - 实现了番茄钟最基本的倒计时功能
 - 实现了按钮交互的功能
 
-<img src="D:\WorkSpace\.Typora Images Hub\image-20200409231248203.png" alt="image-20200409231248203" style="zoom:50%;" />
+<img src="https://dynais-imh-hub.oss-cn-hangzhou.aliyuncs.com/img/20200725010712.png" alt="image-20200409231248203" style="zoom:50%;" />
 
 
 
